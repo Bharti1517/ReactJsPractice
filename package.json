@@ -1,0 +1,31 @@
+{
+  "name": "reactjspractice",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bharti1517/ReactJsPractice.git"
+  },
+  "author": "Bharti Bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bharti1517/ReactJsPractice/issues"
+  },
+  "homepage": "https://github.com/Bharti1517/ReactJsPractice#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.1.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^4.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
