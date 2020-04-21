@@ -14,3 +14,13 @@
 ## 4.) we need to create certain files namely, index.html, App.js, main.js, webpack.config.js and, .babelrc .
 ## USING => type nul > name_of_file.extension
 
+## 5.) Webpack.config.js fill this file and index.html as well
+
+## 6.) Remove // "test": "echo \"Error: no test specified\" && exit 1" from Package.json from script 
+##     Add => 
+##              "start": "webpack-dev-server --mode development --open --hot",
+##              "build": "webpack --mode production"
+
+
+## 7.) 
+##  We are setting div id = "app" as a root element for our app and adding index_bundle.js script, which is our bundled app file.
